@@ -1,0 +1,80 @@
+cv:
+  name: Luciano David Chiroli
+  location: Mendoza, Argentina
+  email: luciano.chiroli45@gmail.com
+  phone: "+54 2634586122"
+  social_networks:
+    - network: LinkedIn
+      username: luciano-chiroli
+    - network: GitHub
+      username: chiro45
+
+  sections:
+    summary:
+      - Full Stack Developer with over 3 years of experience, specializing in React and TypeScript. I combine the agility of AI-assisted development with strict engineering criteria, utilizing these tools to optimize code generation and testing while grounding every technical decision in a deep study of official documentation. University professor passionate about software quality and best practices.
+
+    experience:
+      - company: Amelia-Hub
+        position: Frontend Developer
+        location: Barcelona, Spain (Remote)
+        start_date: 2024-09
+        end_date: 2025-10
+        highlights:
+          - Led the frontend development of the e-learning platform, serving as the technical reference for React and Node.js.
+          - Drove significant UX/UI and performance improvements, including the development of visual authoring tools.
+          - Accelerated repetitive tasks and refactoring via strategic AI usage, rigorously validating output to ensure compliance with design patterns and security standards (JWT/HttpOnly).
+          - Developed interactive simulations using Three.js and React Three Fiber.
+
+      - company: UTN – Regional Mendoza
+        position: Professor of Frontend Development
+        location: Mendoza, Argentina
+        start_date: 2024-03
+        end_date: present
+        highlights:
+          - Teaching HTML, CSS, JS, TS, and React classes with a focus on scalable architecture.
+          - Mentoring students to use AI assistants as consultation tools, enforcing cross-verification with official documentation to prevent technical debt.
+          - Providing technical tutoring on state management (Zustand/Redux) and API design (Spring Boot).
+
+      - company: Smartraining Chile
+        position: Development Director / Full Stack Developer
+        location: Santiago, Chile (Remote)
+        start_date: 2023-09
+        end_date: 2024-10
+        highlights:
+          - Led the evolution of the e-learning platform and defined the technical roadmap.
+          - Implemented secure authentication and 3D simulations.
+          - Optimized code review processes, ensuring that all code—regardless of its origin—met the team's strict quality standards.
+
+      - company: Smartraining Chile
+        position: Full Stack Developer
+        location: Santiago, Chile (Remote)
+        start_date: 2022-06
+        end_date: 2023-09
+        highlights:
+          - Migrated the simulator from Angular to React, improving maintainability and scalability.
+          - Developed the application core and reusable components using Redux and React Three Fiber.
+          - Optimized performance and load times; implemented responsive design for various devices.
+
+    education:
+      - institution: Universidad Tecnológica Nacional (UTN)
+        area: Higher Technician in Programming
+        location: Mendoza, Argentina
+        date: 2024-08
+
+    technologies:
+      - label: Frontend
+        details: React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Material UI
+      - label: Backend & DB
+        details: Node.js (NestJS, Express), Java Spring Boot, PostgreSQL, MySQL, MongoDB
+      - label: AI & Workflow
+        details: Technical Prompting, Code Review Automation, Documentation Analysis, N8N
+      - label: State & 3D
+        details: Redux Toolkit, Zustand, Three.js, React Three Fiber
+      - label: Tools
+        details: Git, GitHub, Vite, Webpack, Linux/Ubuntu
+
+    languages:
+      - label: Spanish
+        details: Native
+      - label: English
+        details: Intermediate (B2 equivalent)
