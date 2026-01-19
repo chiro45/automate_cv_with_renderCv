@@ -2,7 +2,7 @@
 set -e
 
 DEST_DIR="cvs_english"
-BASE_NAME="CV_Luciano_Chiroli_EN_2025"
+BASE_NAME="CV_Luciano_Chiroli_EN_2026"
 EXT="pdf"
 
 echo "🚀 Generando CV en Inglés..."
