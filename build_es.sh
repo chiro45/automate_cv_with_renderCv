@@ -11,7 +11,7 @@ echo "🚀 Generando CV en Español..."
 mkdir -p "$DEST_DIR"
 
 # Renderizar (RenderCV siempre crea rendercv_output)
-rendercv render cv_es.yaml
+.venv/bin/rendercv render cv_es.yaml
 
 # Buscar PDF generado
 PDF_PATH=$(find rendercv_output -name "*.pdf" | head -n 1)

@@ -3,6 +3,7 @@ cv:
   location: Mendoza, Argentina
   email: luciano.chiroli45@gmail.com
   phone: "+54 2634586122"
+  website: https://portfolio-chiroli-luciano.vercel.app/
   social_networks:
     - network: LinkedIn
       username: luciano-chiroli
@@ -11,29 +12,32 @@ cv:
 
   sections:
     summary:
-      - Full Stack Developer with over 3 years of experience, specializing in React and TypeScript. I combine the agility of AI-assisted development with strict engineering criteria, utilizing these tools to optimize code generation and testing while grounding every technical decision in a deep study of official documentation. University professor passionate about software quality and best practices.
+      - Full Stack Developer with strong frontend specialization, focused on solving complex problems and creating scalable, high-quality solutions with React and TypeScript. Working in production environments developing web and mobile applications, leading refactoring initiatives, technological modernization, and continuous improvement, with strong emphasis on performance and code quality. Backend experience with Node.js and NestJS, designing REST APIs and working with SQL and NoSQL databases, approaching challenges from a system-level perspective. Utilize AI tools (Claude, Gemini, agents) to optimize development and automation, always prioritizing technical judgment. Proven track record 150% client growth, 25-30% performance optimizations. University professor with technical leadership and mentoring skills.
 
     experience:
       - company: Amelia-Hub
         position: Frontend Developer
         location: Barcelona, Spain (Remote)
         start_date: 2024-09
-        end_date: 2025-10
+        end_date: 2025-09
         highlights:
-          - Led the frontend development of the e-learning platform, serving as the technical reference for React and Node.js.
-          - Drove significant UX/UI and performance improvements, including the development of visual authoring tools.
-          - Accelerated repetitive tasks and refactoring via strategic AI usage, rigorously validating output to ensure compliance with design patterns and security standards (JWT/HttpOnly).
-          - Developed interactive simulations using Three.js and React Three Fiber.
+          - "Participated in complete refactoring of Amelia-Solar system implementing solar park monitoring and measurements with React and TypeScript, facilitating customer warranty compliance and helping the company achieve technical milestones for investment rounds."
+          - "Contributed to 150% growth in client base (from 3-4 to over 10 clients) through UX/UI improvements development with React and CSS3."
+          - "Optimized Mapbox interactive map with TypeScript and React, achieving 25% reduction in load times through rendering optimization and efficient state management with Zustand."
+          - "Designed and implemented advanced graphics system for visualization of levels, deviations, and measurements using React, TypeScript, and HTML5 Canvas API."
+          - "Implemented secure authentication with Auth0 and React."
 
       - company: UTN – Regional Mendoza
-        position: Professor of Frontend Development
+        position: Frontend Development Professor
         location: Mendoza, Argentina
         start_date: 2024-03
         end_date: present
         highlights:
-          - Teaching HTML, CSS, JS, TS, and React classes with a focus on scalable architecture.
-          - Mentoring students to use AI assistants as consultation tools, enforcing cross-verification with official documentation to prevent technical debt.
-          - Providing technical tutoring on state management (Zustand/Redux) and API design (Spring Boot).
+          - "Teach comprehensive frontend development curriculum: HTML5, CSS3, JavaScript ES6+, TypeScript, React, Angular, component architecture, responsive design, and web development best practices."
+          - "Instruct advanced state management with Redux Toolkit and Zustand, frontend design patterns, and performance optimization in React applications."
+          - "Mentor full stack project development: frontend architecture with React, REST API implementation with Java Spring Boot, integration with PostgreSQL and MySQL databases."
+          - "Conduct code reviews, teach debugging, testing, version control with Git and GitHub, and industry professional quality standards."
+          - "Train students in agile methodologies, collaborative work, and modern development tools."
 
       - company: Smartraining Chile
         position: Development Director / Full Stack Developer
@@ -41,9 +45,14 @@ cv:
         start_date: 2023-09
         end_date: 2024-10
         highlights:
-          - Led the evolution of the e-learning platform and defined the technical roadmap.
-          - Implemented secure authentication and 3D simulations.
-          - Optimized code review processes, ensuring that all code—regardless of its origin—met the team's strict quality standards.
+          - "Led development team and multiplatform expansion: developed iOS and macOS versions with React Native and Expo, specifically optimized for Apple ecosystem, expanding market reach."
+          - "Drove growth of over 15 corporate and educational clients (FEMSA, Catholic University, German University) through development of robust e-learning platform with React, TypeScript, Node.js, and PostgreSQL databases."
+          - "Optimized overall performance by 30% through React frontend architecture refactoring."
+          - "Defined technical roadmap, software architecture, code standards, and development best practices that enabled team and product scaling."
+          - "Implemented secure JWT authentication with HttpOnly cookies in Node.js, developed 3D educational simulations with Three.js and React Three Fiber."
+          - "Integrated platform with Moodle LMS through SCORM standard for progress tracking and educational course management."
+          - "Developed authoring tool for visual educational game creation: transformed manual JSON configuration process into drag-and-drop web interface with specific fields and interactive object positioning. Implemented complex state management with Redux and real-time preview. This tool significantly boosted productivity, enabling delivery of more simulators with fewer personnel and reduced timelines."
+          - "Coordinated code reviews, technical meetings, and sprint planning."
 
       - company: Smartraining Chile
         position: Full Stack Developer
@@ -51,30 +60,67 @@ cv:
         start_date: 2022-06
         end_date: 2023-09
         highlights:
-          - Migrated the simulator from Angular to React, improving maintainability and scalability.
-          - Developed the application core and reusable components using Redux and React Three Fiber.
-          - Optimized performance and load times; implemented responsive design for various devices.
+          - "Developed complete migration from Angular to React 18, improving development speed, maintainability, and scalability of e-learning platform."
+          - "Built reusable core components with React, TypeScript, Redux Toolkit for state management, and React Three Fiber for interactive 3D simulations."
+          - "Optimized performance and load times through React rendering improvements, memoization implementation, re-render optimization, and component architecture enhancement."
+          - "Developed responsive multi-device design with CSS3, Flexbox, Grid, and Media Queries, ensuring consistent experience across desktop, tablet, and mobile."
+          - "Implemented REST API integration, asynchronous state handling, and robust error management in React applications."
 
     education:
       - institution: Universidad Tecnológica Nacional (UTN)
-        area: Higher Technician in Programming
+        area: Higher Technical Degree in Programming
         location: Mendoza, Argentina
         date: 2024-08
-
-    technologies:
-      - label: Frontend
-        details: React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Material UI
-      - label: Backend & DB
-        details: Node.js (NestJS, Express), Java Spring Boot, PostgreSQL, MySQL, MongoDB
-      - label: AI & Workflow
-        details: Technical Prompting, Code Review Automation, Documentation Analysis, N8N
-      - label: State & 3D
-        details: Redux Toolkit, Zustand, Three.js, React Three Fiber
-      - label: Tools
-        details: Git, GitHub, Vite, Webpack, Linux/Ubuntu
 
     languages:
       - label: Spanish
         details: Native
       - label: English
-        details: Intermediate (B2 equivalent)
+        details: Advanced reading and writing - Basic speaking
+
+    technologies:
+      - label: Frontend
+        details: React, Angular, TypeScript, JavaScript ES6+, HTML5, CSS3, TailwindCSS, Material UI, Responsive Design, Mapbox
+      - label: Backend
+        details: Node.js, NestJS, Express, Java Spring Boot, RESTful APIs, JWT Authentication, Auth0
+      - label: Databases
+        details: PostgreSQL, MySQL, MongoDB, SQL, NoSQL
+      - label: State Management
+        details: Redux Toolkit, Zustand, Context API, State Management
+      - label: 3D & Visualization
+        details: Three.js, React Three Fiber, Data Visualization, WebGL, Canvas API
+      - label: Mobile
+        details: React Native, Expo, iOS Development, macOS Development
+      - label: AI & Automation
+        details: Claude, Gemini, Claude Code, AI Agents, Prompt Engineering, Development Automation
+      - label: Integrations
+        details: SCORM, LMS Moodle, API Integration, Third-party Services
+      - label: Tools & DevOps
+        details: Git, GitHub, Vite, Webpack, Linux, Ubuntu, Agile, Scrum
+      - label: Testing & Quality
+        details: Code Review, Debugging, Testing, Performance Optimization
+
+design:
+  theme: classic
+  page:
+    size: us-letter
+    top_margin: 0.7in
+    bottom_margin: 0.7in
+    left_margin: 0.7in
+    right_margin: 0.7in
+    show_footer: true
+    show_top_note: true
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    line_spacing: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+    font_family: Source Sans 3
