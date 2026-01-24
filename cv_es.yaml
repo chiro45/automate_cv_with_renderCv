@@ -1,4 +1,5 @@
 cv:
+  cv:
   name: Luciano David Chiroli
   location: Mendoza, Argentina
   email: luciano.chiroli45@gmail.com
@@ -12,7 +13,8 @@ cv:
 
   sections:
     resumen:
-      - Desarrollador Full Stack con sólida especialización en frontend, enfocado en la resolución de problemas complejos, toma de decisiones técnicas acertadas y creación de soluciones escalables de alta calidad con React y TypeScript. Trabajo en entornos de producción desarrollando aplicaciones web y móviles, liderando iniciativas de refactorización, modernización tecnológica y mejora continua, con fuerte enfoque en rendimiento, mantenibilidad y calidad del código. En backend, cuento con experiencia en Node.js y NestJS, diseñando APIs REST y trabajando con bases de datos SQL y NoSQL, abordando desafíos desde una perspectiva a nivel de sistema. Historial comprobado de resultados crecimiento de base de clientes del 150%, optimizaciones de performance del 25-30%, y desarrollo de funcionalidades críticas para objetivos de inversión. Como profesor universitario, potencio mis habilidades de comunicación, liderazgo técnico, mentoría y desarrollo de equipos.
+      - "**Full Stack Developer | React, Angular, TypeScript, Node.js & NestJS**"
+      - Desarrollador Full Stack especializado en frontend con React | Angular y TypeScript. Experiencia en desarrollo de aplicaciones web en producción, liderando refactorizaciones y modernización tecnológica. Backend con Node.js y NestJS, diseñando APIs REST y trabajando con bases de datos SQL y NoSQL. Resultados comprobados crecimiento de clientes del 150%, optimizaciones de performance del 25-30%, y funcionalidades críticas para objetivos de inversión. Profesor universitario con habilidades de liderazgo técnico y mentoría.
 
     experiencia:
       - company: Amelia-Hub
@@ -25,6 +27,7 @@ cv:
           - "Contribuí al crecimiento del 150% en base de clientes (de 3-4 a más de 10 clientes) mediante desarrollo de mejoras de UX/UI con React y CSS3."
           - "Optimicé mapa interactivo de Mapbox con TypeScript y react, logrando reducción del 25% en tiempos de carga mediante optimización de renderizado y gestión eficiente de estado con Zustand."
           - "Diseñé e implementé sistema de gráficos avanzados para visualización de niveles, desviaciones, mediciones utilizando React, TypeScript y el objeto canvas de HTML5."
+          - "Contribuí al desarrolo de Amelia-Viewer, herramienta de visualización 3D de nubes de puntos LiDAR con React y TypeScript, implementando funcionalidades de medición topográfica y análisis comparativo de diferencias de terreno."
           - "Implementé autenticación segura con Auth0 y React."
 
       - company: UTN – Regional Mendoza
@@ -37,7 +40,6 @@ cv:
           - "Enseño gestión de estado avanzada con Redux Toolkit y Zustand, patrones de diseño frontend, y optimización de performance en aplicaciones React."
           - "Mentoreo desarrollo de proyectos full stack: arquitectura frontend con React, implementación de APIs REST con Java Spring Boot, integración con bases de datos PostgreSQL y MySQL."
           - "Realizo code reviews, enseño debugging, testing, control de versiones con Git y GitHub, y estándares de calidad profesional de la industria."
-          - "Formo estudiantes en metodologías ágiles, trabajo colaborativo, y uso de herramientas modernas."
 
       - company: Smartraining Chile
         position: Director de Desarrollo / Full Stack Developer
@@ -45,13 +47,10 @@ cv:
         start_date: 2023-09
         end_date: 2024-10
         highlights:
-          - "Lideré equipo de desarrollo y expansión multiplataforma: desarrollé versiones iOS y macOS con React Native y Expo, optimizadas específicamente para ecosistema Apple, expandiendo alcance de mercado."
-          - "Impulse crecimiento de más de 15 clientes corporativos y educativos (FEMSA, Universidad Católica, Universidad Alemana) mediante desarrollo de plataforma e-learning robusta con React, TypeScript, Node.js y bases de datos PostgreSQL."
-          - "Optimicé performance general del 30% mediante refactorización de arquitectura frontend React."
+          - "Dirigí y participé en el desarrollo de una web multiplataforma con React y TypeScript que funciona nativamente en cualquier navegador (Chrome, Safari, Firefox) en desktop, móviles y tablets, eliminando necesidad de apps nativas. Optimicé simulaciones 3D con Three.js para performance consistente en iOS, Android, Windows, macOS y Linux."
+          - "Dirigí y participé en el desarrollo de una herramienta para creación visual de juegos educativos: transformé proceso manual de configuración JSON en interfaz web drag-and-drop con campos específicos y posicionamiento interactivo de objetos. Implementé gestión de estado compleja con Redux y preview en tiempo real. Esta herramienta impulsó significativamente la productividad, permitiendo entregar mayor cantidad de simuladores con menos personal y tiempos reducidos."
           - "Definí roadmap técnico, arquitectura de software, estándares de código, y mejores prácticas de desarrollo que permitieron escalar equipo y producto."
           - "Implementé autenticación segura JWT con cookies HttpOnly en Node.js, desarrollé simulaciones 3D educativas con Three.js y React Three Fiber."
-          - "Integré la plataforma con LMS Moodle mediante estándar SCORM para tracking de progreso y gestión de cursos educativos."
-          - "Desarrollé herramienta de authoring para creación visual de juegos educativos: transformé proceso manual de configuración JSON en interfaz web drag-and-drop con campos específicos y posicionamiento interactivo de objetos. Implementé gestión de estado compleja con Redux y preview en tiempo real. Esta herramienta impulsó significativamente la productividad, permitiendo entregar mayor cantidad de simuladores con menos personal y tiempos reducidos."
           - "Coordiné code reviews, reuniones técnicas y planificación de sprints."
 
       - company: Smartraining Chile
@@ -60,7 +59,7 @@ cv:
         start_date: 2022-06
         end_date: 2023-09
         highlights:
-          - "Desarrollé migración completa de Angular a React 18, mejorando velocidad de desarrollo, mantenibilidad y escalabilidad de plataforma e-learning."
+          - "Contribuí e impulse la migración completa de Angular a React 18, mejorando velocidad de desarrollo, mantenibilidad y escalabilidad de plataforma e-learning."
           - "Construí componentes core reutilizables con React, TypeScript, Redux Toolkit para gestión de estado, y React Three Fiber para simulaciones 3D interactivas."
           - "Optimicé performance y tiempos de carga mediante mejoras en renderizado React, implementación de memoization, optimización de re-renders, y mejora de arquitectura de componentes."
           - "Desarrollé diseño responsive multi-dispositivo con CSS3, Flexbox, Grid, y Media Queries, garantizando experiencia consistente en desktop, tablet y mobile."
@@ -71,12 +70,12 @@ cv:
         area: Tecnicatura Superior en Programación
         location: Mendoza, Argentina
         date: 2024-08
-      
+
     lenguages:
       - label: Español
         details: Nativo
       - label: Ingles
-        details: Escritura y lectura avanzada - Habla Basica
+        details: Escritura y lectura intermedia - Habla Básica
 
     tecnologìas:
       - label: Frontend
@@ -90,17 +89,16 @@ cv:
       - label: 3D & Visualización
         details: Three.js, React Three Fiber, Data Visualization, WebGL, Canvas API
       - label: Mobile
-        details: React Native, Expo, iOS Development, macOS Development
+        details: React Native + Expo
       - label: Integraciones
         details: SCORM, LMS Moodle, API Integration, Third-party Services
       - label: IA & Automatización
-        details: Claude, Gemini, Claude Code, AI Agents, Prompt Engineering, Development Automation
+        details: Claude, Gemini, Claude Code, AI Agents, Prompt Engineering
       - label: Herramientas & DevOps
-        details: Git, GitHub, Vite, Webpack, Linux, Ubuntu, Agile, Scrum
+        details: Git, GitHub, Vite, Linux, Agile, Scrum
       - label: Testing & Quality
         details: Code Review, Debugging, Testing, Performance Optimization
 
-    
 design:
   theme: classic
   page:

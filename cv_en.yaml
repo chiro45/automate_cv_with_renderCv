@@ -12,7 +12,8 @@ cv:
 
   sections:
     summary:
-      - Full Stack Developer with strong frontend specialization, focused on solving complex problems and creating scalable, high-quality solutions with React and TypeScript. Working in production environments developing web and mobile applications, leading refactoring initiatives, technological modernization, and continuous improvement, with strong emphasis on performance and code quality. Backend experience with Node.js and NestJS, designing REST APIs and working with SQL and NoSQL databases, approaching challenges from a system-level perspective. Utilize AI tools (Claude, Gemini, agents) to optimize development and automation, always prioritizing technical judgment. Proven track record 150% client growth, 25-30% performance optimizations. University professor with technical leadership and mentoring skills.
+      - "**Full Stack Developer | React, Angular, TypeScript, Node.js & NestJS**"
+      - Full Stack Developer specialized in frontend with React, Angular, and TypeScript. Experience developing web applications in production environments, leading refactoring initiatives, technological modernization, and continuous improvement. Backend experience with Node.js and NestJS, designing REST APIs and working with SQL and NoSQL databases. Proven track record of results 150% client base growth, 25-30% performance optimizations, and development of critical features for investment objectives. University professor with technical leadership, mentoring, and team development skills.
 
     experience:
       - company: Amelia-Hub
@@ -21,10 +22,11 @@ cv:
         start_date: 2024-09
         end_date: 2025-09
         highlights:
-          - "Participated in complete refactoring of Amelia-Solar system implementing solar park monitoring and measurements with React and TypeScript, facilitating customer warranty compliance and helping the company achieve technical milestones for investment rounds."
-          - "Contributed to 150% growth in client base (from 3-4 to over 10 clients) through UX/UI improvements development with React and CSS3."
+          - "Participated in the complete refactoring of the Amelia-Solar system, implementing monitoring and measurement capabilities for solar farms using React and TypeScript, facilitating client warranty compliance and helping the company achieve technical milestones for investment rounds."
+          - "Contributed to 150% growth in client base (from 3-4 to over 10 clients) through development of UX/UI improvements with React and CSS3."
           - "Optimized Mapbox interactive map with TypeScript and React, achieving 25% reduction in load times through rendering optimization and efficient state management with Zustand."
-          - "Designed and implemented advanced graphics system for visualization of levels, deviations, and measurements using React, TypeScript, and HTML5 Canvas API."
+          - "Designed and implemented advanced chart system for visualization of levels, deviations, and measurements using React, TypeScript, and HTML5 canvas object."
+          - "Contributed to the development of Amelia-Viewer, a 3D visualization tool for LiDAR point clouds using React and TypeScript, implementing topographic measurement functionalities and comparative analysis of terrain differences."
           - "Implemented secure authentication with Auth0 and React."
 
       - company: UTN – Regional Mendoza
@@ -33,25 +35,21 @@ cv:
         start_date: 2024-03
         end_date: present
         highlights:
-          - "Teach comprehensive frontend development curriculum: HTML5, CSS3, JavaScript ES6+, TypeScript, React, Angular, component architecture, responsive design, and web development best practices."
-          - "Instruct advanced state management with Redux Toolkit and Zustand, frontend design patterns, and performance optimization in React applications."
+          - "Teach complete frontend development academic program: HTML5, CSS3, JavaScript ES6+, TypeScript, React, Angular, component architecture, responsive design, and web development best practices."
+          - "Teach advanced state management with Redux Toolkit and Zustand, frontend design patterns, and performance optimization in React applications."
           - "Mentor full stack project development: frontend architecture with React, REST API implementation with Java Spring Boot, integration with PostgreSQL and MySQL databases."
           - "Conduct code reviews, teach debugging, testing, version control with Git and GitHub, and industry professional quality standards."
-          - "Train students in agile methodologies, collaborative work, and modern development tools."
 
       - company: Smartraining Chile
-        position: Development Director / Full Stack Developer
+        position: Director of Development / Full Stack Developer
         location: Santiago, Chile (Remote)
         start_date: 2023-09
         end_date: 2024-10
         highlights:
-          - "Led development team and multiplatform expansion: developed iOS and macOS versions with React Native and Expo, specifically optimized for Apple ecosystem, expanding market reach."
-          - "Drove growth of over 15 corporate and educational clients (FEMSA, Catholic University, German University) through development of robust e-learning platform with React, TypeScript, Node.js, and PostgreSQL databases."
-          - "Optimized overall performance by 30% through React frontend architecture refactoring."
+          - "Led and participated in the development of a multiplatform web solution with React and TypeScript that runs natively in any browser (Chrome, Safari, Firefox) on desktop, mobile, and tablets, eliminating the need for native apps. Optimized 3D simulations with Three.js for consistent performance across iOS, Android, Windows, macOS, and Linux."
+          - "Led and participated in the development of an authoring tool for visual creation of educational games: transformed manual JSON configuration process into a drag-and-drop web interface with specific fields and interactive object positioning. Implemented complex state management with Redux and real-time preview. This tool significantly boosted productivity, enabling delivery of more simulators with fewer personnel and reduced timelines."
           - "Defined technical roadmap, software architecture, code standards, and development best practices that enabled team and product scaling."
-          - "Implemented secure JWT authentication with HttpOnly cookies in Node.js, developed 3D educational simulations with Three.js and React Three Fiber."
-          - "Integrated platform with Moodle LMS through SCORM standard for progress tracking and educational course management."
-          - "Developed authoring tool for visual educational game creation: transformed manual JSON configuration process into drag-and-drop web interface with specific fields and interactive object positioning. Implemented complex state management with Redux and real-time preview. This tool significantly boosted productivity, enabling delivery of more simulators with fewer personnel and reduced timelines."
+          - "Implemented secure JWT authentication with HttpOnly cookies in Node.js, developed educational 3D simulations with Three.js and React Three Fiber."
           - "Coordinated code reviews, technical meetings, and sprint planning."
 
       - company: Smartraining Chile
@@ -60,15 +58,15 @@ cv:
         start_date: 2022-06
         end_date: 2023-09
         highlights:
-          - "Developed complete migration from Angular to React 18, improving development speed, maintainability, and scalability of e-learning platform."
+          - "Contributed to and drove the complete migration from Angular to React 18, improving development speed, maintainability, and scalability of the e-learning platform."
           - "Built reusable core components with React, TypeScript, Redux Toolkit for state management, and React Three Fiber for interactive 3D simulations."
-          - "Optimized performance and load times through React rendering improvements, memoization implementation, re-render optimization, and component architecture enhancement."
+          - "Optimized performance and load times through improvements in React rendering, memoization implementation, re-render optimization, and component architecture enhancement."
           - "Developed responsive multi-device design with CSS3, Flexbox, Grid, and Media Queries, ensuring consistent experience across desktop, tablet, and mobile."
           - "Implemented REST API integration, asynchronous state handling, and robust error management in React applications."
 
     education:
       - institution: Universidad Tecnológica Nacional (UTN)
-        area: Higher Technical Degree in Programming
+        area: Higher Technician in Programming
         location: Mendoza, Argentina
         date: 2024-08
 
@@ -76,7 +74,7 @@ cv:
       - label: Spanish
         details: Native
       - label: English
-        details: Advanced reading and writing - Basic speaking
+        details: Intermediate reading and writing - Basic speaking
 
     technologies:
       - label: Frontend
@@ -90,13 +88,13 @@ cv:
       - label: 3D & Visualization
         details: Three.js, React Three Fiber, Data Visualization, WebGL, Canvas API
       - label: Mobile
-        details: React Native, Expo, iOS Development, macOS Development
-      - label: AI & Automation
-        details: Claude, Gemini, Claude Code, AI Agents, Prompt Engineering, Development Automation
+        details: React Native + Expo
       - label: Integrations
         details: SCORM, LMS Moodle, API Integration, Third-party Services
+      - label: AI & Automation
+        details: Claude, Gemini, Claude Code, AI Agents, Prompt Engineering
       - label: Tools & DevOps
-        details: Git, GitHub, Vite, Webpack, Linux, Ubuntu, Agile, Scrum
+        details: Git, GitHub, Vite, Linux, Agile, Scrum
       - label: Testing & Quality
         details: Code Review, Debugging, Testing, Performance Optimization
 
@@ -124,3 +122,38 @@ design:
     alignment: justified
     date_and_location_column_alignment: right
     font_family: Source Sans 3
+
+locale:
+  language: english
+  last_updated: Last updated
+  month: Month
+  months: Months
+  year: Year
+  years: Years
+  present: Present
+  month_abbreviations:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  month_names:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
